@@ -1,0 +1,21 @@
+.mainMenu{
+    background-color: #463F3A;
+}
+
+.mainTitleText{
+    display: flex;
+    color: #F4F3EE;
+    justify-content: center;
+    font-family:'Roboto';
+}
+
+.menuButtons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.addButton{
+    margin-bottom: 10px;
+}
